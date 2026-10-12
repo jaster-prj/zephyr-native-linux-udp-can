@@ -1,0 +1,7 @@
+# SPDX-License-Identifier: Apache-2.0
+
+menu "External native-linux-udp-can module"
+
+source "drivers/can/Kconfig.native_udp"
+
+endmenu

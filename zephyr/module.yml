@@ -1,0 +1,5 @@
+name: native-linux-udp-can
+
+build:
+  cmake: ./
+  kconfig: ./Kconfig
